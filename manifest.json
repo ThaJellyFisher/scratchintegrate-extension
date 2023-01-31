@@ -1,0 +1,11 @@
+{
+    "name": "ScratchIntegrate online checker",
+    "version": "1.0.0",
+    "description": "check if scratchintegrate is online",
+    "manifest_version": 3,
+    "author": "jellyfishfisher56"
+    "action": "checks scratchintegrate"
+        "default_popup": "index.html",
+        "default_title": "online"
+    }
+}
